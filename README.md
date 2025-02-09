@@ -30,6 +30,8 @@ at http://localhost:8082.
 
 visit `http://localhost:8082/swagger-ui.html`
 
+<img width="1725" alt="Screenshot 2025-02-09 at 6 24 08 PM" src="https://github.com/user-attachments/assets/d201ec13-d6a2-4a27-a7bd-ef0759d96cf5" />
+
 ## Running Testcases
 
 ```shell
